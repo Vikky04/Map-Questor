@@ -41,6 +41,6 @@ find a new path using this tool.
 
 ![image](https://github.com/Vikky04/Map-Questor/assets/114574074/24d61dce-cbfd-4a3f-94bc-d04e6189ca54)
 
-![image](https://github.com/Vikky04/Map-Questor/assets/114574074/b443c9e7-b655-464c-8af9-473002df9c38)
+
 
 
